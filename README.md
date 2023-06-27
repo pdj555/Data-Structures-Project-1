@@ -1,4 +1,4 @@
-# TableClass Implementation and Query Operations
+# Dynamic Array Sorting Project: Data Input, Storage, and Manipulation with Sorting Algorithms
 
 ## Objective:
 In this project, you will learn about reading data from input files and store and play with dynamic arrays with sorting algorithms.
